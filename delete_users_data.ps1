@@ -1,0 +1,1 @@
+#script for delete data from c:\users\AnyUser data
